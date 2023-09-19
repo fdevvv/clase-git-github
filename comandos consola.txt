@@ -1,0 +1,10 @@
+comandos
+
+cd > lo utilizamos para ingresar a una carpeta
+cd .. > lo utilizamos para salir de una carpeta
+mkdir > lo utilizamos para crear carpetas
+touch > lo utilizamos para crear archivos (recordemos que el archivo se crea primero con el nombre seguido del tipo archivo)
+por ejemplo touch index.html.
+rm > lo utilizamos para borrar los archivos por ejemplo rm index.html
+rmdir > lo utilizamos para borrar las carpetas por ejemplo rmdir pages
+clear > lo utilizamos para borrar la consola

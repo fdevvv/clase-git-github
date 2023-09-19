@@ -4,16 +4,30 @@
     box-sizing: border-box;
 }
 
-p {
-    font-size: 30px;
-    color: red;
+body {
+    background-color: coral;
 }
 
 nav {
     background-color: black;
 }
 
+ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
 nav ul li {
     font-size: 20px;
     color: aquamarine;
+}
+
+article {
+    background-color: chocolate;
+}
+
+p {
+    font-size: 25px;
+    color: crimson;
 }
